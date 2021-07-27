@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+    color: #7A797C;
+}
+header, section{
+    margin-top: 30px;
+    height: 650px;
+}
+h1{
+    font-size: 60px;
+    color: #7A797C;
+    padding-top: 100px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 45px;
+}
+.orange-text{
+    color: #ffa500;
+}
+.btn{
+    text-decoration: none;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    background-image: linear-gradient(to right, #F98F46, #FB4B2E);
+    border-radius: 30px;
+    padding: 20px 40px;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.about-section{
+    background: url(images/shapes/about-bg.png);
+    background-repeat: no-repeat;
+}
+.about-section img{
+    width: 70%;
+    padding-left: 100px;
+}
+.about-text{
+    padding-top: 60px;
+    padding-right: 60px;
+}
+.recipies{
+    height: 750px;
+}
+.recipies-title{
+    padding: 0 350px;
+    text-align: center;
+}
+.food-item{
+    width: 25%;
+    float: left;
+    margin-left: 4.5%;
+    box-shadow: 3px 3px 30px #ddd5d5;
+    padding: 15px;
+    height: 500px;
+    border-radius: 30px;
+    color: rgb(26, 24, 24);
+}
+.food-item img {
+    width: 100%;
+}
+.follower-section{
+    height: 250px;
+    margin: 60px;
+}
+.media{
+    height: 200px;
+    box-shadow: 3px 3px 30px #ddd5d5;
+    border-radius: 30px;
+    color: rgb(26, 24, 24);
+}
+.follow-numbers{
+    width: 25%;
+    float: left;
+    padding-top: 30px;
+    padding-left: 8%;
+}
+.testimonial-section{
+    background:linear-gradient( rgba(0, 0, 0, 0.5) 100%, rgba(0, 0, 0, 0.5)100%),url("images/food/bloog-01.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+}
+.testimonial-section h2{
+    padding-top: 100px;
+}
+.testimonial-section p{
+    padding: 0 100px;
+}
+.chefs{
+    text-align: center;
+}
+.chefs-section-title p{
+    font-weight: 200;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.chef-man{
+    width: 20%;
+    float: left;
+    margin-left: 4%;
+    background-color: rgb(238, 237, 237);
+}
+.chef-man img{
+    width: 100%;
+    height: 300px;
+}
+.chefs-section-title p{
+    margin-bottom: 10px;
+}
+.chefs-section-title{
+    margin: 20px;
+}
+.footer-section{
+    height: 250px;
+    background-color: rgb(26, 24, 24);
+    text-align: center;
+}
+.footer-section h4{
+    font-size: 30px;
+    padding-top: 50px;
+    margin: 0;
+}
